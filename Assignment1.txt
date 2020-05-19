@@ -1,0 +1,15 @@
+Q1. Write a java program to print fibonacci series without using recursion and using recursion.
+
+Q2. Write a java program to print Factorial of a number.
+
+Q3.  Write a java program to check Prime Number for user input.
+
+Q4. Remove Duplicate Element in Array using Temporary Array.
+
+Q5. write Java Program to find Smallest Number in an Array.
+
+Q6. write Java Program to check wheather number is prime or not.
+
+Q7. Write a java program to check the leap year.
+
+Q8. Write a java program for armstrong number.
